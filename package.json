@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/augustinas/snapterest/issues"
   },
-  "homepage": "https://github.com/augustinas/snapterest#readme"
+  "homepage": "https://github.com/augustinas/snapterest#readme",
+  "devDependencies": {
+    "babelify": "^6.3.0",
+    "browserify": "^11.2.0",
+    "gulp": "^3.9.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "react": "^0.13.3",
+    "react-dom": "^0.14.0-rc1"
+  }
 }
